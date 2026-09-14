@@ -7,5 +7,4 @@ This repository contains my assignments and projects for Digital IC Design using
 ## Tools Used
 - Verilog HDL
 - Xilinx Vivado / Intel Quartus
-- FPGA Board: (write your board name)
 - Simulation: ModelSim / Vivado Simulator
