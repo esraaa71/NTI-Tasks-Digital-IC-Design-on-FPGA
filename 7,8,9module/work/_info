@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Desktop/materials/NTI_FPGA/7,8,9module
+vcounter
+Z1 !s110 1789401405
+!i10b 1
+!s100 j2]OJb1ZmK57VIK2CIVP>0
+I7lIlfOz^FOY;Nzccz^DVa0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1789400939
+8C:/Desktop/materials/NTI_FPGA/7,8,9module/counter.v
+FC:/Desktop/materials/NTI_FPGA/7,8,9module/counter.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1789401405.000000
+!s107 C:/Desktop/materials/NTI_FPGA/7,8,9module/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Desktop/materials/NTI_FPGA/7,8,9module/counter.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcounter_test
+R1
+!i10b 1
+!s100 fa>KzhiG`XRhB;l8e@Jbc2
+I9Y=0Xkc[]BYW7DSA@TbTH2
+R2
+R0
+w1789400422
+8C:/Desktop/materials/NTI_FPGA/7,8,9module/counter_test.v
+FC:/Desktop/materials/NTI_FPGA/7,8,9module/counter_test.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Desktop/materials/NTI_FPGA/7,8,9module/counter_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Desktop/materials/NTI_FPGA/7,8,9module/counter_test.v|
+!i113 1
+R5
+R6
+vmemory
+R1
+!i10b 1
+!s100 EJDRcdR=HLmDQ3>Bf>E]f3
+IHG=JNhP?RKjMCe2`W12ac1
+R2
+R0
+w1789400937
+8C:/Desktop/materials/NTI_FPGA/7,8,9module/memory.v
+FC:/Desktop/materials/NTI_FPGA/7,8,9module/memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Desktop/materials/NTI_FPGA/7,8,9module/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Desktop/materials/NTI_FPGA/7,8,9module/memory.v|
+!i113 1
+R5
+R6
+vmemory_test
+R1
+!i10b 1
+!s100 jQaia>Q7e582WVG`ScQCB0
+IP_4n6lDY5?zC:11C>a^ID1
+R2
+R0
+w1789400429
+8C:/Desktop/materials/NTI_FPGA/7,8,9module/memory_test.v
+FC:/Desktop/materials/NTI_FPGA/7,8,9module/memory_test.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Desktop/materials/NTI_FPGA/7,8,9module/memory_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Desktop/materials/NTI_FPGA/7,8,9module/memory_test.v|
+!i113 1
+R5
+R6
+vregister
+R1
+!i10b 1
+!s100 INe6DaB:zb_>hLE2GAHm<0
+ICZ`hnP:I;QfdcS^58nHzi1
+R2
+R0
+w1789400936
+8C:/Desktop/materials/NTI_FPGA/7,8,9module/register.v
+FC:/Desktop/materials/NTI_FPGA/7,8,9module/register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Desktop/materials/NTI_FPGA/7,8,9module/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Desktop/materials/NTI_FPGA/7,8,9module/register.v|
+!i113 1
+R5
+R6
+vregister_test
+R1
+!i10b 1
+!s100 CmiPB5Ti5HUF38_>_clj51
+IW7lSA0@;a<K3Q[;JUN_1P3
+R2
+R0
+w1789400436
+8C:/Desktop/materials/NTI_FPGA/7,8,9module/register_test.v
+FC:/Desktop/materials/NTI_FPGA/7,8,9module/register_test.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Desktop/materials/NTI_FPGA/7,8,9module/register_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Desktop/materials/NTI_FPGA/7,8,9module/register_test.v|
+!i113 1
+R5
+R6
