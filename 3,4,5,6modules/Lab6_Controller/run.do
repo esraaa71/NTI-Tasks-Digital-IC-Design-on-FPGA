@@ -1,0 +1,8 @@
+if {[file exists work]} {vdel -lib work -all}
+vlib work
+vlog controller.v controller_test.v
+vsim work.controller_test
+add wave -r /*
+radix binary
+run -all
+wave zoom full
