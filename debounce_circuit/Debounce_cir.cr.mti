@@ -1,0 +1,7 @@
+C:/Desktop/materials/NTI_FPGA/debounce_circuit/Debouncing_cir.v {0 {vlog -work work -stats=none C:/Desktop/materials/NTI_FPGA/debounce_circuit/Debouncing_cir.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Debouncing_cir
+** Error: (vlog-13032) C:/Desktop/materials/NTI_FPGA/debounce_circuit/Debouncing_cir.v(47): near "reg": Syntax error.
+** Error: (vlog-13032) C:/Desktop/materials/NTI_FPGA/debounce_circuit/Debouncing_cir.v(59): near ",": Syntax error.
+
+} {4.0 6.0} {}}
