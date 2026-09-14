@@ -1,0 +1,93 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Desktop/materials/NTI_FPGA
+T_opt
+!s110 1788460042
+VEhoNj]Y<cF6=]3@?060K_0
+Z2 04 6 4 work ALU_tb fast 0
+=1-a029429a02ef-6a99bc0a-a1-71b0
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+T_opt1
+!s110 1788459384
+VaVk;hIXl`TeX4]^DVK2UI2
+04 3 4 work ALU fast 0
+=1-a029429a02ef-6a99b977-388-40ec
+R3
+R4
+R5
+n@_opt1
+R6
+R1
+T_opt2
+!s110 1788459502
+V[VCMH`S=hmz1I:P:]565J1
+R2
+=1-a029429a02ef-6a99b9ee-2-b84
+R3
+o-quiet -auto_acc_if_foreign -work work
+R5
+n@_opt2
+R6
+R1
+vALU
+Z7 !s110 1788459880
+!i10b 1
+!s100 k<2N]If<n]1OGS8?Nc2zK2
+I<Q4kcNW]_b`P;;zETFHT90
+Z8 dC:/Desktop/materials/NTI_FPGA/ALU_day4
+w1788459152
+8ALU.v
+FALU.v
+!i122 6
+L0 1 68
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1788459880.000000
+!s107 ALU.v|
+!s90 -reportprogress|300|ALU.v|
+!i113 0
+Z12 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@a@l@u
+vALU_tb
+R7
+!i10b 1
+!s100 hIfQ:j>bHVj1V0IKCOkSK3
+IbIB@LIT@Q3TjENN7jlVYZ2
+R8
+w1788459178
+8ALU_tb.v
+FALU_tb.v
+!i122 7
+L0 3 98
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 ALU_tb.v|
+!s90 -reportprogress|300|ALU_tb.v|
+!i113 0
+R12
+R5
+n@a@l@u_tb
